@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Grintsys/precache-manifest.1efa4b3a1c56386f2e978dfb203f1ac0.js"
+  "/Grintsys/precache-manifest.4095f8bbb04c04552871338f9426c29f.js"
 );
 
 self.addEventListener('message', (event) => {
